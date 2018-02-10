@@ -296,6 +296,7 @@ var SVG_PROPERTIES = {
     'xml:id': XML_NAMESPACE,
     'xml:lang': XML_NAMESPACE,
     'xml:space': XML_NAMESPACE,
+    'xmlns': 'http://www.w3.org/2000/svg',
     'y': DEFAULT_NAMESPACE,
     'y1': DEFAULT_NAMESPACE,
     'y2': DEFAULT_NAMESPACE,
